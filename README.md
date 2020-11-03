@@ -1,2 +1,2 @@
 # Intro_Quantum_Computing
-Basic code for Qunatum Computing
+Basic code for Quantum Computing
